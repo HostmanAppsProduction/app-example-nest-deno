@@ -1,4 +1,6 @@
-# NestJS
+![Nest Logo](https://st.timeweb.com/cloud-static/apps-logo/nest.svg)
+
+# NestJS on Deno
 
 Пример приложения [NestJS](https://nestjs.com/) на [Deno](https://deno.com/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
