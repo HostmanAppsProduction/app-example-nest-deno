@@ -4,7 +4,7 @@
 
 Пример приложения [NestJS](https://nestjs.com/) на [Deno](https://deno.com/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
-:tada: Демо
+:tada: [Демо](https://twc-app-example-nest-deno.twc1.net/)
 
 :rocket: [Создать свой Apps](https://timeweb.cloud/my/apps/create)
 
